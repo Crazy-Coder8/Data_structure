@@ -27,3 +27,17 @@ def binary_search ( l,t ) :
 l = [1,2,3,4]
 print(binary_search(l,2))
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
